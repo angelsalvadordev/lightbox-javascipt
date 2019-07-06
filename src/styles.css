@@ -45,6 +45,7 @@
     margin-bottom: .7rem;
     position: relative;
     border: 4px solid #B2B2B2;
+    cursor: pointer;
 }
 
 .img-container::before{
@@ -61,7 +62,10 @@
     left:-4px;
     cursor: pointer;
     opacity: 0;
-    transition: all .5s;
+    transition: all .5s ease-in;
+    -webkit-transition: all .5s;
+    -ms-transition: all .5s;
+    -moz-transition: all .5s;  
 }
 
 .img-container:hover::before{
