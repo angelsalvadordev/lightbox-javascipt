@@ -2,7 +2,7 @@
 
 DOCUMENTACION EN ESPAÑOL
 
-![imagen lightbox en vanilla javascript](/images/demo-carousel.jpg "imagen lightbox en vanilla javascript")
+![imagen lightbox en vanilla javascript](/src/img/demo.jpg "imagen lightbox en vanilla javascript")
 
 ## Objetivos
 Lograr un lightbox responsive con Javascript puro.
